@@ -66,7 +66,7 @@
 
                     <a class="btn" style="
                 background: #cc0605;
-            " href="https://discord.gg/c7Gu4G2BR5">Instruction<br><small></small></a><br>
+            " href="https://telegra.ph/Instrukciya-po-ustanovki-chita-Wall-Hack-06-01">Instruction<br><small></small></a><br>
            <br>
         
         <img src="App.png">
