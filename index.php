@@ -23,7 +23,7 @@
 <meta name="twitter:url" content="https://treovan.github.io/WallHack/">
 <meta name="robots" content="index,follow">
 
-<meta property="og:description" content="WallHack: The Best Overlay hack for Standoff 2.">
+<meta property="og:description" content="WallHack: The Best Overlay.">
 <meta name="description" content="WallHack: The Best Overlay hack for Standoff 2.">
 
         
@@ -63,7 +63,14 @@
         <strong>WallHack</strong> A Standoff 2 hack written in Objective-C
             <a href="https://discordapp.com/users/968740893899231302/">By IOS Developer Lavochka &raquo;</a>
         </div>
+
+                    <a class="btn" style="
+                background: #cc0605;
+            " href="https://discord.gg/c7Gu4G2BR5">Instruction<br><small></small></a><br>
+           <br>
+        
         <img src="App.png">
+
     </div>
   <ul class="section links">
     <div class="section">
@@ -102,6 +109,8 @@
                
                 
         </div><br>
+
+        
         
         </div>
     </div>
