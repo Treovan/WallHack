@@ -13,18 +13,18 @@
 
 
 <title>WallHack</title>
-<meta property="og:title" content="Theos Installer">
-<meta name="twitter:title" content="Theos Installer">
+<meta property="og:title" content="WallHack">
+<meta name="twitter:title" content="WallHack">
 
 
 <meta property="og:image" content="a.png">
 <meta property="twitter:card" content="summary">
 
-<meta name="twitter:url" content="https://theosinstaller.github.io/">
+<meta name="twitter:url" content="https://treovan.github.io/WallHack/">
 <meta name="robots" content="index,follow">
 
-<meta property="og:description" content="TheosInstaller: Easy Tool for install theos with click.">
-<meta name="description" content="TheosInstaller: Easy Tool for install theos with click.">
+<meta property="og:description" content="WallHack: The Best Overlay.">
+<meta name="description" content="WallHack: The Best Overlay hack for Standoff 2.">
 
         
         
@@ -42,6 +42,12 @@
         <br><br><br>
         <h1>WallHack</h1>
         <h2>By Lavochka</h2>
+
+                    <a class="btn" style="
+                background: #7289DA;
+            " href="https://discord.gg/c7Gu4G2BR5">Our Discord<br><small></small></a><br>
+           <br>
+
         <p><strong>Supported</strong>  iOS 12 - 14.8.1</p>
         <div class="call-to-action">
             
@@ -118,4 +124,5 @@
         
         
 </html>
+         
       
